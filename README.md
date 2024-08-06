@@ -4,7 +4,7 @@ Simple Application For NodeJS With Docker Compose.
 
 ### Project Technologies - 
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,docker,mongo&perline=7" />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,docker,mongo&perline=7" />
 
 ### Installation + Running The Application
 
